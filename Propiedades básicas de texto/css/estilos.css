@@ -9,3 +9,8 @@ h1{
   word-spacing: 30px;
   color: red;
 }
+p::selection{
+  background:blue;
+  color: black;
+  text-shadow: 2px 2px 2px #fff;
+}
