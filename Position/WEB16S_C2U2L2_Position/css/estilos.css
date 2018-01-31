@@ -1,9 +1,11 @@
 header{
-  background-color: blue;
+  background-color: black;
   width: 100%;
   height: 80px;
   position: fixed;
   top: 0;
+
+
 }
 footer{
   clear: both;
@@ -12,6 +14,7 @@ footer{
   background-color: red;
   position: fixed;
   bottom: 0;
+
 }
 nav {
   height: 100%;
@@ -57,4 +60,20 @@ section article{
   position: fixed;
   right: 0;
   margin-top: 200px;
+}
+#absoluta{
+  width: 150px;
+  height: 150px;
+  background-color: pink;
+  position: absolute;
+  top: 20%;
+  left: 35%;
+}
+#intDer{
+  width: 50px;
+  height: 100px;
+  background-color: yellow;
+  position: relative;
+  top: 400px;
+  margin-left: -50px;
 }
