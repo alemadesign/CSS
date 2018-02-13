@@ -13,6 +13,7 @@ section aside{
   height: 400px;
   background-color: green;
   float: left;
+
 }
 section article{
   width: 80%;
@@ -27,7 +28,7 @@ footer{
   background-color: purple;
 }
 header img{
-  height: 80%;
+  height: 90%;
   float: right;
-  padding: 1% 1% 0% 0;
+  padding: 0.5% 2% 0 0;
 }
