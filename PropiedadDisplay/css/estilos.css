@@ -1,7 +1,8 @@
 h1{
   background-color: rgb(113, 0, 81);
   width: 400px;
-  opacity: 1;
+  opacity: 0.5;
+  display: inline;
 }
 
 h2{
