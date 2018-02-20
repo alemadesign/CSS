@@ -26,6 +26,17 @@ header
 	background-color: grey;
 	color:white;
 }
+footer
+{
+	clear: both;
+	margin: 0 auto;
+	height: 1em;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	text-align: center;
+	background-color: grey;
+	color:white;
+}
 
 article
 {
@@ -96,5 +107,10 @@ article
 	header
 	{
 	width:100%;
+	}
+
+	footer
+	{
+	width: 100%;
 	}
 }

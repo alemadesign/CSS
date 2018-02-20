@@ -7,10 +7,11 @@ div {
 
 #original {
   margin-top: 20px;
-  margin-left: 20px;
+
   margin-bottom: 100px;
+
 }
 
 #transformado {
-  transform: rotatez(180deg);
+  transform: scale(.5,1);
 }
